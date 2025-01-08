@@ -2,7 +2,7 @@
 1st repo for demo
 <br>
 author is osk
-<h1 align="center">Hi 👋, I'm onkar kalkute</h1>
+<h1 align="center">Hi 👋, I'm onkar kalkute osk </h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 🔭 I’m currently working on **college studet**
